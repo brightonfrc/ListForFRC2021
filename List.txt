@@ -1,5 +1,5 @@
 2 radios
-More chargers + adaptees
+More chargers + adapters
 More spare parts including motors
 Gearboxes
 Distance sensor, encoder
@@ -13,7 +13,7 @@ Buy spare balls and do not ruin them
 
 
 
-Battery boltage more than 13
+Battery boltage more than 12
 
 New wheels and shafts
 
@@ -27,9 +27,9 @@ Cart
 
 https://www.ctr-electronics.com/battery-beak.html
 
-Volrmeter
+Voltmeter
 
-Eire connectors
+Wire connectors
 
 More alan keys and pliers
 
